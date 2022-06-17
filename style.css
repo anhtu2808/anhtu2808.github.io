@@ -1,3 +1,14 @@
-.profile {
-  radius:500px;
+.profilePic {
+  border-radius: 50%
 }
+
+
+.nav-style {
+
+}
+.gb_Te {
+  color: #bdc1c6
+}
+body{font-size: 14px;
+    font-family: arial,sans-serif;
+    color: #bdc1c6;}
