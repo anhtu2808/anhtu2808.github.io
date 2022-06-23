@@ -6,8 +6,8 @@
 .nav-style {
 
 }
-.gb_Te {
-  color: #bdc1c6
+.menu {
+  color: rgba(255,255,255,0.87);
 }
 body{font-size: 14px;
     font-family: arial,sans-serif;
